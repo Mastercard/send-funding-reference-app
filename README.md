@@ -1,3 +1,3 @@
 # Mastercard Send Funding API Spring Boot Application
 
-This tutorial demonstrates how the Mastercard Send Funding APIs can be used by a simple web application to create funding transfers.
+This is a simple spring boot reference application that is integrated with the Mastercard Send Funding API.
